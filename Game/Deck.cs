@@ -9,7 +9,7 @@ namespace Hilo.Game
         int score;
         public Deck()
         {
-            score = 0;
+            score = 300;
             card = 0;
         }
 
@@ -20,6 +20,11 @@ namespace Hilo.Game
             card = num.Next(1,14);
             return card;
             
+        }
+
+        public int GetScore()
+        {
+            return score;
         }
         
     }
