@@ -25,7 +25,7 @@ namespace Hilo.Game
 
         public void HighOrLow()
         {
-            Console.Write("Higher or Lower?[h/y] ");
+            
             CheckForHL();
         }
 
@@ -34,18 +34,20 @@ namespace Hilo.Game
         {
             do
             {
+                Console.Write("Higher or Lower?[h/l] ");
                 highLow = Console.ReadLine();
 
-            } while (highLow != "h" || highLow != "l"); 
+            } while (highLow != "h" && highLow != "l"); 
         }
 
         public void CheckForYN()
         {
             do
             {
+                Console.Write("Do you want to play again?[y/n] ");
                 yesNo = Console.ReadLine();
 
-            } while (yesNo != "y" || yesNo != "n"); 
+            } while (yesNo != "y" && yesNo != "n"); 
         }
 
         public void StartUp()
@@ -95,7 +97,7 @@ namespace Hilo.Game
                     isPlaying = false;
                     continue;
                 }
-                Console.WriteLine("Do you want to play again?[y/n] ");
+                
                 CheckForYN();
                 if (yesNo == "n")
                 {
