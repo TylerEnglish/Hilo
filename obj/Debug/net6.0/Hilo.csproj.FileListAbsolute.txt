@@ -1,0 +1,15 @@
+C:\Users\tyler\Hilo Game\Hilo\bin\Debug\net6.0\Hilo.exe
+C:\Users\tyler\Hilo Game\Hilo\bin\Debug\net6.0\Hilo.deps.json
+C:\Users\tyler\Hilo Game\Hilo\bin\Debug\net6.0\Hilo.runtimeconfig.json
+C:\Users\tyler\Hilo Game\Hilo\bin\Debug\net6.0\Hilo.dll
+C:\Users\tyler\Hilo Game\Hilo\bin\Debug\net6.0\ref\Hilo.dll
+C:\Users\tyler\Hilo Game\Hilo\bin\Debug\net6.0\Hilo.pdb
+C:\Users\tyler\Hilo Game\Hilo\obj\Debug\net6.0\Hilo.csproj.AssemblyReference.cache
+C:\Users\tyler\Hilo Game\Hilo\obj\Debug\net6.0\Hilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyler\Hilo Game\Hilo\obj\Debug\net6.0\Hilo.AssemblyInfoInputs.cache
+C:\Users\tyler\Hilo Game\Hilo\obj\Debug\net6.0\Hilo.AssemblyInfo.cs
+C:\Users\tyler\Hilo Game\Hilo\obj\Debug\net6.0\Hilo.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Hilo Game\Hilo\obj\Debug\net6.0\Hilo.dll
+C:\Users\tyler\Hilo Game\Hilo\obj\Debug\net6.0\ref\Hilo.dll
+C:\Users\tyler\Hilo Game\Hilo\obj\Debug\net6.0\Hilo.pdb
+C:\Users\tyler\Hilo Game\Hilo\obj\Debug\net6.0\Hilo.genruntimeconfig.cache
